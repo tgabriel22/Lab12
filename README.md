@@ -105,10 +105,15 @@ program12.sh») и создав 2 файла, которые необходим�
 файла (команда «chmod +x pro.sh») и создав отдельный tgabriel с
 несколькими файлами. Как видно из Рисунков 14,15,16,17,18, файлы, измененные
 более недели назад, заархивированы не были.
+
 ![](https://raw.githubusercontent.com/tgabriel22/Lab12/main/images/13.PNG "Рисунок 14")
+
 ![](https://raw.githubusercontent.com/tgabriel22/Lab12/main/images/14.PNG "Рисунок 15")
+
 ![](https://raw.githubusercontent.com/tgabriel22/Lab12/main/images/15.PNG "Рисунок 16")
+
 ![](https://raw.githubusercontent.com/tgabriel22/Lab12/main/images/16.PNG "Рисунок 17")
+
 ![](https://raw.githubusercontent.com/tgabriel22/Lab12/main/images/17.PNG "Рисунок 18")
 
 # Вывод: 
